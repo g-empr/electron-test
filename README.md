@@ -1,1 +1,1 @@
-* electronおためし用
+# electronおためし用
